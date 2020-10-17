@@ -1,0 +1,5992 @@
+{
+    "2": {
+        "trial_number": "2",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "3": {
+        "trial_number": "3",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "4": {
+        "trial_number": "4",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "5": {
+        "trial_number": "5",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "6": {
+        "trial_number": "6",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "7": {
+        "trial_number": "7",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "8": {
+        "trial_number": "8",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "9": {
+        "trial_number": "9",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "10": {
+        "trial_number": "10",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "11": {
+        "trial_number": "11",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "12": {
+        "trial_number": "12",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "13": {
+        "trial_number": "13",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "14": {
+        "trial_number": "14",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "15": {
+        "trial_number": "15",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "16": {
+        "trial_number": "16",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "17": {
+        "trial_number": "17",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "18": {
+        "trial_number": "18",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "19": {
+        "trial_number": "19",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "20": {
+        "trial_number": "20",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "21": {
+        "trial_number": "21",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "1",
+        "outcome": "wrong_port",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "22": {
+        "trial_number": "22",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "23": {
+        "trial_number": "23",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "24": {
+        "trial_number": "24",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "25": {
+        "trial_number": "25",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "26": {
+        "trial_number": "26",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "27": {
+        "trial_number": "27",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "28": {
+        "trial_number": "28",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "29": {
+        "trial_number": "29",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "30": {
+        "trial_number": "30",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "31": {
+        "trial_number": "31",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "32": {
+        "trial_number": "32",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "33": {
+        "trial_number": "33",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "34": {
+        "trial_number": "34",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "35": {
+        "trial_number": "35",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "36": {
+        "trial_number": "36",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "37": {
+        "trial_number": "37",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "38": {
+        "trial_number": "38",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "39": {
+        "trial_number": "39",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "40": {
+        "trial_number": "40",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "41": {
+        "trial_number": "41",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "42": {
+        "trial_number": "42",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "43": {
+        "trial_number": "43",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "44": {
+        "trial_number": "44",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "45": {
+        "trial_number": "45",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "46": {
+        "trial_number": "46",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "47": {
+        "trial_number": "47",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "48": {
+        "trial_number": "48",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "49": {
+        "trial_number": "49",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "50": {
+        "trial_number": "50",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "51": {
+        "trial_number": "51",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "52": {
+        "trial_number": "52",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "53": {
+        "trial_number": "53",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "54": {
+        "trial_number": "54",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "55": {
+        "trial_number": "55",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "56": {
+        "trial_number": "56",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "57": {
+        "trial_number": "57",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "58": {
+        "trial_number": "58",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "59": {
+        "trial_number": "59",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "60": {
+        "trial_number": "60",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "61": {
+        "trial_number": "61",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "62": {
+        "trial_number": "62",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "63": {
+        "trial_number": "63",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "64": {
+        "trial_number": "64",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "65": {
+        "trial_number": "65",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "66": {
+        "trial_number": "66",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "67": {
+        "trial_number": "67",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "68": {
+        "trial_number": "68",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "69": {
+        "trial_number": "69",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "70": {
+        "trial_number": "70",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "71": {
+        "trial_number": "71",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "72": {
+        "trial_number": "72",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "73": {
+        "trial_number": "73",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "74": {
+        "trial_number": "74",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "wrong_port",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "75": {
+        "trial_number": "75",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "wrong_port",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "76": {
+        "trial_number": "76",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "77": {
+        "trial_number": "77",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "78": {
+        "trial_number": "78",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "79": {
+        "trial_number": "79",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "80": {
+        "trial_number": "80",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "81": {
+        "trial_number": "81",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "82": {
+        "trial_number": "82",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "83": {
+        "trial_number": "83",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "84": {
+        "trial_number": "84",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "85": {
+        "trial_number": "85",
+        "correct_side": "right",
+        "stim_number": "2",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "3",
+        "stim_name": "hi_pc_no"
+    },
+    "86": {
+        "trial_number": "86",
+        "correct_side": "right",
+        "stim_number": "2",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "3",
+        "stim_name": "hi_pc_no"
+    },
+    "87": {
+        "trial_number": "87",
+        "correct_side": "right",
+        "stim_number": "2",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "3",
+        "stim_name": "hi_pc_no"
+    },
+    "88": {
+        "trial_number": "88",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "89": {
+        "trial_number": "89",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "90": {
+        "trial_number": "90",
+        "correct_side": "right",
+        "stim_number": "2",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "3",
+        "stim_name": "hi_pc_no"
+    },
+    "91": {
+        "trial_number": "91",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "92": {
+        "trial_number": "92",
+        "correct_side": "right",
+        "stim_number": "2",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "3",
+        "stim_name": "hi_pc_no"
+    },
+    "93": {
+        "trial_number": "93",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "94": {
+        "trial_number": "94",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "95": {
+        "trial_number": "95",
+        "correct_side": "right",
+        "stim_number": "2",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "3",
+        "stim_name": "hi_pc_no"
+    },
+    "96": {
+        "trial_number": "96",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "97": {
+        "trial_number": "97",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "98": {
+        "trial_number": "98",
+        "correct_side": "right",
+        "stim_number": "2",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "3",
+        "stim_name": "hi_pc_no"
+    },
+    "99": {
+        "trial_number": "99",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "100": {
+        "trial_number": "100",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "101": {
+        "trial_number": "101",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "102": {
+        "trial_number": "102",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "103": {
+        "trial_number": "103",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "104": {
+        "trial_number": "104",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "105": {
+        "trial_number": "105",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "106": {
+        "trial_number": "106",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "107": {
+        "trial_number": "107",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "108": {
+        "trial_number": "108",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "109": {
+        "trial_number": "109",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "110": {
+        "trial_number": "110",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "111": {
+        "trial_number": "111",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "112": {
+        "trial_number": "112",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "113": {
+        "trial_number": "113",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "114": {
+        "trial_number": "114",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "115": {
+        "trial_number": "115",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "116": {
+        "trial_number": "116",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "117": {
+        "trial_number": "117",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "118": {
+        "trial_number": "118",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "119": {
+        "trial_number": "119",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "120": {
+        "trial_number": "120",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "121": {
+        "trial_number": "121",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "122": {
+        "trial_number": "122",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "123": {
+        "trial_number": "123",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "124": {
+        "trial_number": "124",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "125": {
+        "trial_number": "125",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "126": {
+        "trial_number": "126",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "127": {
+        "trial_number": "127",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "128": {
+        "trial_number": "128",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "129": {
+        "trial_number": "129",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "130": {
+        "trial_number": "130",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "wrong_port",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "131": {
+        "trial_number": "131",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "132": {
+        "trial_number": "132",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "133": {
+        "trial_number": "133",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "134": {
+        "trial_number": "134",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "135": {
+        "trial_number": "135",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "136": {
+        "trial_number": "136",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "137": {
+        "trial_number": "137",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "138": {
+        "trial_number": "138",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "139": {
+        "trial_number": "139",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "140": {
+        "trial_number": "140",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "141": {
+        "trial_number": "141",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "142": {
+        "trial_number": "142",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "143": {
+        "trial_number": "143",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "144": {
+        "trial_number": "144",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "145": {
+        "trial_number": "145",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "146": {
+        "trial_number": "146",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "147": {
+        "trial_number": "147",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "148": {
+        "trial_number": "148",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "149": {
+        "trial_number": "149",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "150": {
+        "trial_number": "150",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "151": {
+        "trial_number": "151",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "152": {
+        "trial_number": "152",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "153": {
+        "trial_number": "153",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "154": {
+        "trial_number": "154",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "155": {
+        "trial_number": "155",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "156": {
+        "trial_number": "156",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "157": {
+        "trial_number": "157",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "158": {
+        "trial_number": "158",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "159": {
+        "trial_number": "159",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "160": {
+        "trial_number": "160",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "161": {
+        "trial_number": "161",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "162": {
+        "trial_number": "162",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "163": {
+        "trial_number": "163",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "164": {
+        "trial_number": "164",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "165": {
+        "trial_number": "165",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "166": {
+        "trial_number": "166",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "167": {
+        "trial_number": "167",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "168": {
+        "trial_number": "168",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "169": {
+        "trial_number": "169",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "170": {
+        "trial_number": "170",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "171": {
+        "trial_number": "171",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "172": {
+        "trial_number": "172",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "173": {
+        "trial_number": "173",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "174": {
+        "trial_number": "174",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "175": {
+        "trial_number": "175",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "176": {
+        "trial_number": "176",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "177": {
+        "trial_number": "177",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "178": {
+        "trial_number": "178",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "179": {
+        "trial_number": "179",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "180": {
+        "trial_number": "180",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "181": {
+        "trial_number": "181",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "182": {
+        "trial_number": "182",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "183": {
+        "trial_number": "183",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "184": {
+        "trial_number": "184",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "185": {
+        "trial_number": "185",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "186": {
+        "trial_number": "186",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "187": {
+        "trial_number": "187",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "188": {
+        "trial_number": "188",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "189": {
+        "trial_number": "189",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "190": {
+        "trial_number": "190",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "191": {
+        "trial_number": "191",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "192": {
+        "trial_number": "192",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "193": {
+        "trial_number": "193",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "194": {
+        "trial_number": "194",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "195": {
+        "trial_number": "195",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "196": {
+        "trial_number": "196",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "197": {
+        "trial_number": "197",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "wrong_port",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "198": {
+        "trial_number": "198",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "199": {
+        "trial_number": "199",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "200": {
+        "trial_number": "200",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "201": {
+        "trial_number": "201",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "202": {
+        "trial_number": "202",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "203": {
+        "trial_number": "203",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "204": {
+        "trial_number": "204",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "205": {
+        "trial_number": "205",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "206": {
+        "trial_number": "206",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "207": {
+        "trial_number": "207",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "208": {
+        "trial_number": "208",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "209": {
+        "trial_number": "209",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "210": {
+        "trial_number": "210",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "211": {
+        "trial_number": "211",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "212": {
+        "trial_number": "212",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "213": {
+        "trial_number": "213",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "214": {
+        "trial_number": "214",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "215": {
+        "trial_number": "215",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "216": {
+        "trial_number": "216",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "217": {
+        "trial_number": "217",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "218": {
+        "trial_number": "218",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "219": {
+        "trial_number": "219",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "220": {
+        "trial_number": "220",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "221": {
+        "trial_number": "221",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "222": {
+        "trial_number": "222",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "223": {
+        "trial_number": "223",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "224": {
+        "trial_number": "224",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "225": {
+        "trial_number": "225",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "226": {
+        "trial_number": "226",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "227": {
+        "trial_number": "227",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "228": {
+        "trial_number": "228",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "229": {
+        "trial_number": "229",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "230": {
+        "trial_number": "230",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "231": {
+        "trial_number": "231",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "232": {
+        "trial_number": "232",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "233": {
+        "trial_number": "233",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "234": {
+        "trial_number": "234",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "235": {
+        "trial_number": "235",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "236": {
+        "trial_number": "236",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "237": {
+        "trial_number": "237",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "238": {
+        "trial_number": "238",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "239": {
+        "trial_number": "239",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "240": {
+        "trial_number": "240",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "wrong_port",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "241": {
+        "trial_number": "241",
+        "correct_side": "right",
+        "stim_number": "2",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "3",
+        "stim_name": "hi_pc_no"
+    },
+    "242": {
+        "trial_number": "242",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "243": {
+        "trial_number": "243",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "244": {
+        "trial_number": "244",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "245": {
+        "trial_number": "245",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "246": {
+        "trial_number": "246",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "247": {
+        "trial_number": "247",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "248": {
+        "trial_number": "248",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "249": {
+        "trial_number": "249",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "250": {
+        "trial_number": "250",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "251": {
+        "trial_number": "251",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "252": {
+        "trial_number": "252",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "253": {
+        "trial_number": "253",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "254": {
+        "trial_number": "254",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "255": {
+        "trial_number": "255",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "256": {
+        "trial_number": "256",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "257": {
+        "trial_number": "257",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "258": {
+        "trial_number": "258",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "259": {
+        "trial_number": "259",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "260": {
+        "trial_number": "260",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "261": {
+        "trial_number": "261",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "262": {
+        "trial_number": "262",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "263": {
+        "trial_number": "263",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "264": {
+        "trial_number": "264",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "265": {
+        "trial_number": "265",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "266": {
+        "trial_number": "266",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "267": {
+        "trial_number": "267",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "268": {
+        "trial_number": "268",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "269": {
+        "trial_number": "269",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "270": {
+        "trial_number": "270",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "271": {
+        "trial_number": "271",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "272": {
+        "trial_number": "272",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "273": {
+        "trial_number": "273",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "274": {
+        "trial_number": "274",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "275": {
+        "trial_number": "275",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "276": {
+        "trial_number": "276",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "277": {
+        "trial_number": "277",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "278": {
+        "trial_number": "278",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "279": {
+        "trial_number": "279",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "280": {
+        "trial_number": "280",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "281": {
+        "trial_number": "281",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "282": {
+        "trial_number": "282",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "283": {
+        "trial_number": "283",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "284": {
+        "trial_number": "284",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "285": {
+        "trial_number": "285",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "286": {
+        "trial_number": "286",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "287": {
+        "trial_number": "287",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "288": {
+        "trial_number": "288",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "289": {
+        "trial_number": "289",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "290": {
+        "trial_number": "290",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "291": {
+        "trial_number": "291",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "292": {
+        "trial_number": "292",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "293": {
+        "trial_number": "293",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "294": {
+        "trial_number": "294",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "295": {
+        "trial_number": "295",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "296": {
+        "trial_number": "296",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "297": {
+        "trial_number": "297",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "298": {
+        "trial_number": "298",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "299": {
+        "trial_number": "299",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "wrong_port",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "300": {
+        "trial_number": "300",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "wrong_port",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "301": {
+        "trial_number": "301",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "302": {
+        "trial_number": "302",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "303": {
+        "trial_number": "303",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "304": {
+        "trial_number": "304",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "305": {
+        "trial_number": "305",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "306": {
+        "trial_number": "306",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "307": {
+        "trial_number": "307",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "308": {
+        "trial_number": "308",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "309": {
+        "trial_number": "309",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "310": {
+        "trial_number": "310",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "311": {
+        "trial_number": "311",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "312": {
+        "trial_number": "312",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "313": {
+        "trial_number": "313",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "314": {
+        "trial_number": "314",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "315": {
+        "trial_number": "315",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "316": {
+        "trial_number": "316",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "317": {
+        "trial_number": "317",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "318": {
+        "trial_number": "318",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "319": {
+        "trial_number": "319",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "320": {
+        "trial_number": "320",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "321": {
+        "trial_number": "321",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "322": {
+        "trial_number": "322",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "323": {
+        "trial_number": "323",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "324": {
+        "trial_number": "324",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "325": {
+        "trial_number": "325",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "326": {
+        "trial_number": "326",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "327": {
+        "trial_number": "327",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "328": {
+        "trial_number": "328",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "329": {
+        "trial_number": "329",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "330": {
+        "trial_number": "330",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "331": {
+        "trial_number": "331",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "332": {
+        "trial_number": "332",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "333": {
+        "trial_number": "333",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "334": {
+        "trial_number": "334",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "335": {
+        "trial_number": "335",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "336": {
+        "trial_number": "336",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "337": {
+        "trial_number": "337",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "338": {
+        "trial_number": "338",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "339": {
+        "trial_number": "339",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "340": {
+        "trial_number": "340",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "341": {
+        "trial_number": "341",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "342": {
+        "trial_number": "342",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "343": {
+        "trial_number": "343",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "344": {
+        "trial_number": "344",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "345": {
+        "trial_number": "345",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "346": {
+        "trial_number": "346",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "347": {
+        "trial_number": "347",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "348": {
+        "trial_number": "348",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "349": {
+        "trial_number": "349",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "350": {
+        "trial_number": "350",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "351": {
+        "trial_number": "351",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "352": {
+        "trial_number": "352",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "353": {
+        "trial_number": "353",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "354": {
+        "trial_number": "354",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "355": {
+        "trial_number": "355",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "356": {
+        "trial_number": "356",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "357": {
+        "trial_number": "357",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "358": {
+        "trial_number": "358",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "359": {
+        "trial_number": "359",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "360": {
+        "trial_number": "360",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "361": {
+        "trial_number": "361",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "362": {
+        "trial_number": "362",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "363": {
+        "trial_number": "363",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "364": {
+        "trial_number": "364",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "365": {
+        "trial_number": "365",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "366": {
+        "trial_number": "366",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "367": {
+        "trial_number": "367",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "368": {
+        "trial_number": "368",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "369": {
+        "trial_number": "369",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "370": {
+        "trial_number": "370",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "371": {
+        "trial_number": "371",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "372": {
+        "trial_number": "372",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "373": {
+        "trial_number": "373",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "374": {
+        "trial_number": "374",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "375": {
+        "trial_number": "375",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "376": {
+        "trial_number": "376",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "377": {
+        "trial_number": "377",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "wrong_port",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "378": {
+        "trial_number": "378",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "379": {
+        "trial_number": "379",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "380": {
+        "trial_number": "380",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "381": {
+        "trial_number": "381",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "382": {
+        "trial_number": "382",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "383": {
+        "trial_number": "383",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "384": {
+        "trial_number": "384",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "385": {
+        "trial_number": "385",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "386": {
+        "trial_number": "386",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "387": {
+        "trial_number": "387",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "388": {
+        "trial_number": "388",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "389": {
+        "trial_number": "389",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "390": {
+        "trial_number": "390",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "391": {
+        "trial_number": "391",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "392": {
+        "trial_number": "392",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "393": {
+        "trial_number": "393",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "394": {
+        "trial_number": "394",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "395": {
+        "trial_number": "395",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "396": {
+        "trial_number": "396",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "397": {
+        "trial_number": "397",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "398": {
+        "trial_number": "398",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "399": {
+        "trial_number": "399",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "400": {
+        "trial_number": "400",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "401": {
+        "trial_number": "401",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "402": {
+        "trial_number": "402",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "wrong_port",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "403": {
+        "trial_number": "403",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "404": {
+        "trial_number": "404",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "405": {
+        "trial_number": "405",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "406": {
+        "trial_number": "406",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "407": {
+        "trial_number": "407",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "408": {
+        "trial_number": "408",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "409": {
+        "trial_number": "409",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "410": {
+        "trial_number": "410",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "411": {
+        "trial_number": "411",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "412": {
+        "trial_number": "412",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "413": {
+        "trial_number": "413",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "414": {
+        "trial_number": "414",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "415": {
+        "trial_number": "415",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "416": {
+        "trial_number": "416",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "417": {
+        "trial_number": "417",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "418": {
+        "trial_number": "418",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "419": {
+        "trial_number": "419",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "420": {
+        "trial_number": "420",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "421": {
+        "trial_number": "421",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "422": {
+        "trial_number": "422",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "423": {
+        "trial_number": "423",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "424": {
+        "trial_number": "424",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "425": {
+        "trial_number": "425",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "426": {
+        "trial_number": "426",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "427": {
+        "trial_number": "427",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "428": {
+        "trial_number": "428",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "429": {
+        "trial_number": "429",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "430": {
+        "trial_number": "430",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "431": {
+        "trial_number": "431",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "1",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "432": {
+        "trial_number": "432",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "433": {
+        "trial_number": "433",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "434": {
+        "trial_number": "434",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "435": {
+        "trial_number": "435",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "436": {
+        "trial_number": "436",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "437": {
+        "trial_number": "437",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "438": {
+        "trial_number": "438",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "439": {
+        "trial_number": "439",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "440": {
+        "trial_number": "440",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "441": {
+        "trial_number": "441",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "442": {
+        "trial_number": "442",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "443": {
+        "trial_number": "443",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "444": {
+        "trial_number": "444",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "445": {
+        "trial_number": "445",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "446": {
+        "trial_number": "446",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "447": {
+        "trial_number": "447",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "448": {
+        "trial_number": "448",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "449": {
+        "trial_number": "449",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "450": {
+        "trial_number": "450",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "451": {
+        "trial_number": "451",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "452": {
+        "trial_number": "452",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "453": {
+        "trial_number": "453",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "454": {
+        "trial_number": "454",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "455": {
+        "trial_number": "455",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "456": {
+        "trial_number": "456",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "457": {
+        "trial_number": "457",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "458": {
+        "trial_number": "458",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "459": {
+        "trial_number": "459",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "460": {
+        "trial_number": "460",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "461": {
+        "trial_number": "461",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "462": {
+        "trial_number": "462",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "463": {
+        "trial_number": "463",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "464": {
+        "trial_number": "464",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "465": {
+        "trial_number": "465",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "466": {
+        "trial_number": "466",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "467": {
+        "trial_number": "467",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "468": {
+        "trial_number": "468",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "469": {
+        "trial_number": "469",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "470": {
+        "trial_number": "470",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "471": {
+        "trial_number": "471",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "472": {
+        "trial_number": "472",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "error",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "473": {
+        "trial_number": "473",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "474": {
+        "trial_number": "474",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "475": {
+        "trial_number": "475",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "476": {
+        "trial_number": "476",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "477": {
+        "trial_number": "477",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "478": {
+        "trial_number": "478",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "479": {
+        "trial_number": "479",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "480": {
+        "trial_number": "480",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "hit",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "481": {
+        "trial_number": "481",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "482": {
+        "trial_number": "482",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "483": {
+        "trial_number": "483",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "484": {
+        "trial_number": "484",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "485": {
+        "trial_number": "485",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "486": {
+        "trial_number": "486",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "487": {
+        "trial_number": "487",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "488": {
+        "trial_number": "488",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "489": {
+        "trial_number": "489",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "490": {
+        "trial_number": "490",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "491": {
+        "trial_number": "491",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "492": {
+        "trial_number": "492",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "493": {
+        "trial_number": "493",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "494": {
+        "trial_number": "494",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "495": {
+        "trial_number": "495",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "496": {
+        "trial_number": "496",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "497": {
+        "trial_number": "497",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "498": {
+        "trial_number": "498",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "499": {
+        "trial_number": "499",
+        "correct_side": "left",
+        "stim_number": "3",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "1",
+        "stim_name": "le_lc_go"
+    },
+    "500": {
+        "trial_number": "500",
+        "correct_side": "left",
+        "stim_number": "4",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "1",
+        "stim_name": "ri_lc_no"
+    },
+    "501": {
+        "trial_number": "501",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "502": {
+        "trial_number": "502",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "503": {
+        "trial_number": "503",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "504": {
+        "trial_number": "504",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "505": {
+        "trial_number": "505",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "506": {
+        "trial_number": "506",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "507": {
+        "trial_number": "507",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "508": {
+        "trial_number": "508",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "509": {
+        "trial_number": "509",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "510": {
+        "trial_number": "510",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "511": {
+        "trial_number": "511",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "512": {
+        "trial_number": "512",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "513": {
+        "trial_number": "513",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "514": {
+        "trial_number": "514",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "515": {
+        "trial_number": "515",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "516": {
+        "trial_number": "516",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "517": {
+        "trial_number": "517",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "518": {
+        "trial_number": "518",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "519": {
+        "trial_number": "519",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "520": {
+        "trial_number": "520",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "521": {
+        "trial_number": "521",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "522": {
+        "trial_number": "522",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "523": {
+        "trial_number": "523",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "524": {
+        "trial_number": "524",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "525": {
+        "trial_number": "525",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "526": {
+        "trial_number": "526",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "527": {
+        "trial_number": "527",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "528": {
+        "trial_number": "528",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "529": {
+        "trial_number": "529",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "530": {
+        "trial_number": "530",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "531": {
+        "trial_number": "531",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "532": {
+        "trial_number": "532",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "533": {
+        "trial_number": "533",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "534": {
+        "trial_number": "534",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "535": {
+        "trial_number": "535",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "536": {
+        "trial_number": "536",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "537": {
+        "trial_number": "537",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "538": {
+        "trial_number": "538",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "539": {
+        "trial_number": "539",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "540": {
+        "trial_number": "540",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "541": {
+        "trial_number": "541",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "542": {
+        "trial_number": "542",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "543": {
+        "trial_number": "543",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "544": {
+        "trial_number": "544",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "545": {
+        "trial_number": "545",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "546": {
+        "trial_number": "546",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "547": {
+        "trial_number": "547",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "548": {
+        "trial_number": "548",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "549": {
+        "trial_number": "549",
+        "correct_side": "left",
+        "stim_number": "9",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_hi_lc"
+    },
+    "550": {
+        "trial_number": "550",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "551": {
+        "trial_number": "551",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "552": {
+        "trial_number": "552",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "553": {
+        "trial_number": "553",
+        "correct_side": "left",
+        "stim_number": "12",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_lo_lc"
+    },
+    "554": {
+        "trial_number": "554",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "555": {
+        "trial_number": "555",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "556": {
+        "trial_number": "556",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "557": {
+        "trial_number": "557",
+        "correct_side": "left",
+        "stim_number": "11",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "2",
+        "stim_name": "le_lo_lc"
+    },
+    "558": {
+        "trial_number": "558",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "559": {
+        "trial_number": "559",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "560": {
+        "trial_number": "560",
+        "correct_side": "left",
+        "stim_number": "10",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "2",
+        "stim_name": "ri_hi_lc"
+    },
+    "561": {
+        "trial_number": "561",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "562": {
+        "trial_number": "562",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "563": {
+        "trial_number": "563",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "564": {
+        "trial_number": "564",
+        "correct_side": "right",
+        "stim_number": "2",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "3",
+        "stim_name": "hi_pc_no"
+    },
+    "565": {
+        "trial_number": "565",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "566": {
+        "trial_number": "566",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "567": {
+        "trial_number": "567",
+        "correct_side": "right",
+        "stim_number": "2",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "3",
+        "stim_name": "hi_pc_no"
+    },
+    "568": {
+        "trial_number": "568",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "569": {
+        "trial_number": "569",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "570": {
+        "trial_number": "570",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "571": {
+        "trial_number": "571",
+        "correct_side": "right",
+        "stim_number": "2",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "3",
+        "stim_name": "hi_pc_no"
+    },
+    "572": {
+        "trial_number": "572",
+        "correct_side": "right",
+        "stim_number": "2",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "3",
+        "stim_name": "hi_pc_no"
+    },
+    "573": {
+        "trial_number": "573",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "574": {
+        "trial_number": "574",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "575": {
+        "trial_number": "575",
+        "correct_side": "right",
+        "stim_number": "2",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "3",
+        "stim_name": "hi_pc_no"
+    },
+    "576": {
+        "trial_number": "576",
+        "correct_side": "right",
+        "stim_number": "2",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "3",
+        "stim_name": "hi_pc_no"
+    },
+    "577": {
+        "trial_number": "577",
+        "correct_side": "right",
+        "stim_number": "2",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "3",
+        "stim_name": "hi_pc_no"
+    },
+    "578": {
+        "trial_number": "578",
+        "correct_side": "right",
+        "stim_number": "2",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "3",
+        "stim_name": "hi_pc_no"
+    },
+    "579": {
+        "trial_number": "579",
+        "correct_side": "right",
+        "stim_number": "2",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "3",
+        "stim_name": "hi_pc_no"
+    },
+    "580": {
+        "trial_number": "580",
+        "correct_side": "right",
+        "stim_number": "1",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "3",
+        "stim_name": "lo_pc_go"
+    },
+    "581": {
+        "trial_number": "581",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "582": {
+        "trial_number": "582",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "583": {
+        "trial_number": "583",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "584": {
+        "trial_number": "584",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "585": {
+        "trial_number": "585",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "586": {
+        "trial_number": "586",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "587": {
+        "trial_number": "587",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "588": {
+        "trial_number": "588",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "589": {
+        "trial_number": "589",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "590": {
+        "trial_number": "590",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "591": {
+        "trial_number": "591",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "592": {
+        "trial_number": "592",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "593": {
+        "trial_number": "593",
+        "correct_side": "right",
+        "stim_number": "6",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "ri_hi_pc"
+    },
+    "594": {
+        "trial_number": "594",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "595": {
+        "trial_number": "595",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    },
+    "596": {
+        "trial_number": "596",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "597": {
+        "trial_number": "597",
+        "correct_side": "right",
+        "stim_number": "7",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "le_lo_pc"
+    },
+    "598": {
+        "trial_number": "598",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "599": {
+        "trial_number": "599",
+        "correct_side": "right",
+        "stim_number": "8",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "go",
+        "block": "4",
+        "stim_name": "ri_lo_pc"
+    },
+    "600": {
+        "trial_number": "600",
+        "correct_side": "right",
+        "stim_number": "5",
+        "nonrandom": "0",
+        "outcome": "future_trial",
+        "go_or_nogo": "nogo",
+        "block": "4",
+        "stim_name": "le_hi_pc"
+    }
+}
