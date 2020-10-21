@@ -130,90 +130,174 @@ def pick_rat():
     for rat in rats:
         hits_outcomes =[]
         wrongs_outcomes =[]  
-        trial =[]
-        side = []
+        error_outcomes =[]
+        count = []
+        go_hit = 0
+        go_miss = 0
+        go_error =0
+        no_go_hit =0
+        no_go_miss =0
+        no_go_error =0
 
         if rat=='Ed':
             for stim in stims:
                 hits = session.query(ed.outcome,ed.stim_name).filter(ed.stim_name == stim, ed.outcome=='hit').all()
                 errors = session.query(ed.outcome,ed.stim_name).filter(ed.stim_name == stim, ed.outcome=='error').all()
                 wrongs = session.query(ed.outcome,ed.stim_name).filter(ed.stim_name == stim, ed.outcome=='wrong_port').all()
-                hits_outcomes.append(len(hits)+len(errors))
+                hits_outcomes.append(len(hits))
                 wrongs_outcomes.append(len(wrongs))
+                error_outcomes.append(len(errors))
+                count.append(len(hits)+len(errors)+len(wrongs))
 
-            results = session.query(ed.trial_number,ed.correct_side).all()
+            results = session.query(ed.outcome,ed.go_or_nogo).all()
             for result in results:
-                trial.append(result[0])
-                side.append(result[1])
+                if (result[1] == "go") & (result[0]=="hit"):
+                    go_hit += 1
+                elif (result[1] == "go") & (result[0]=="wrong_port"):
+                    go_miss += 1
+                elif (result[1] == "go") & (result[0]=="error"):
+                    go_miss += 1
+                elif (result[1] == "nogo") & (result[0]=="hit"):
+                    no_go_hit += 1
+                elif (result[1] == "nogo") & (result[0]=="wrong_port"):
+                    no_go_miss += 1
+                elif (result[1] == "nogo") &(result[0]=="error"):
+                    no_go_miss += 1
         elif rat=='Madison':
             for stim in stims:
                 hits = session.query(madison.outcome,madison.stim_name).filter(madison.stim_name == stim, madison.outcome=='hit').all()
                 errors = session.query(madison.outcome,madison.stim_name).filter(madison.stim_name == stim, madison.outcome=='error').all()
                 wrongs = session.query(madison.outcome,madison.stim_name).filter(madison.stim_name == stim, madison.outcome=='wrong_port').all()
-                hits_outcomes.append(len(hits)+len(errors))
+                hits_outcomes.append(len(hits))
                 wrongs_outcomes.append(len(wrongs))
+                error_outcomes.append(len(errors))
+                count.append(len(hits)+len(errors)+len(wrongs))
 
-            results = session.query(madison.trial_number,madison.correct_side).all()
+            results = session.query(madison.outcome,madison.go_or_nogo).all()
             for result in results:
-                trial.append(result[0])
-                side.append(result[1])
+                if (result[1] == "go") & (result[0]=="hit"):
+                    go_hit += 1
+                elif (result[1] == "go") & (result[0]=="wrong_port"):
+                    go_miss += 1
+                elif (result[1] == "go") & (result[0]=="error"):
+                    go_error += 1
+                elif (result[1] == "nogo") & (result[0]=="hit"):
+                    no_go_hit += 1
+                elif (result[1] == "nogo") & (result[0]=="wrong_port"):
+                    no_go_miss += 1
+                elif (result[1] == "nogo") &(result[0]=="error"):
+                    no_go_error += 1
+
         elif rat=='Lucy':
-                    for stim in stims:
-                        hits = session.query(lucy.outcome,lucy.stim_name).filter(lucy.stim_name == stim, lucy.outcome=='hit').all()
-                        errors = session.query(lucy.outcome,lucy.stim_name).filter(lucy.stim_name == stim, lucy.outcome=='error').all()
-                        wrongs = session.query(lucy.outcome,lucy.stim_name).filter(lucy.stim_name == stim, lucy.outcome=='wrong_port').all()
-                        hits_outcomes.append(len(hits)+len(errors))
-                        wrongs_outcomes.append(len(wrongs))
+            for stim in stims:
+                hits = session.query(lucy.outcome,lucy.stim_name).filter(lucy.stim_name == stim, lucy.outcome=='hit').all()
+                errors = session.query(lucy.outcome,lucy.stim_name).filter(lucy.stim_name == stim, lucy.outcome=='error').all()
+                wrongs = session.query(lucy.outcome,lucy.stim_name).filter(lucy.stim_name == stim, lucy.outcome=='wrong_port').all()
+                hits_outcomes.append(len(hits))
+                wrongs_outcomes.append(len(wrongs))
+                error_outcomes.append(len(errors))
+                count.append(len(hits)+len(errors)+len(wrongs))
 
-                    results = session.query(lucy.trial_number,lucy.correct_side).all()
-                    for result in results:
-                        trial.append(result[0])
-                        side.append(result[1])
+            results = session.query(lucy.outcome,lucy.go_or_nogo).all()
+            for result in results:
+                if (result[1] == "go") & (result[0]=="hit"):
+                    go_hit += 1
+                elif (result[1] == "go") & (result[0]=="wrong_port"):
+                    go_miss += 1
+                elif (result[1] == "go") & (result[0]=="error"):
+                    go_error += 1
+                elif (result[1] == "nogo") & (result[0]=="hit"):
+                    no_go_hit += 1
+                elif (result[1] == "nogo") & (result[0]=="wrong_port"):
+                    no_go_miss += 1
+                elif (result[1] == "nogo") &(result[0]=="error"):
+                    no_go_error += 1
+  
         elif rat=='Lauren':
-                    for stim in stims:
-                        hits = session.query(lauren.outcome,lauren.stim_name).filter(lauren.stim_name == stim, lauren.outcome=='hit').all()
-                        errors = session.query(lauren.outcome,lauren.stim_name).filter(lauren.stim_name == stim, lauren.outcome=='error').all()
-                        wrongs = session.query(lauren.outcome,lauren.stim_name).filter(lauren.stim_name == stim, lauren.outcome=='wrong_port').all()
-                        hits_outcomes.append(len(hits)+len(errors))
-                        wrongs_outcomes.append(len(wrongs))
+            for stim in stims:
+                hits = session.query(lauren.outcome,lauren.stim_name).filter(lauren.stim_name == stim, lauren.outcome=='hit').all()
+                errors = session.query(lauren.outcome,lauren.stim_name).filter(lauren.stim_name == stim, lauren.outcome=='error').all()
+                wrongs = session.query(lauren.outcome,lauren.stim_name).filter(lauren.stim_name == stim, lauren.outcome=='wrong_port').all()
+                hits_outcomes.append(len(hits))
+                wrongs_outcomes.append(len(wrongs))
+                error_outcomes.append(len(errors))
+                count.append(len(hits)+len(errors)+len(wrongs))
 
-                    results = session.query(lauren.trial_number,lauren.correct_side).all()
-                    for result in results:
-                        trial.append(result[0])
-                        side.append(result[1])
+            results = session.query(lauren.outcome,lauren.go_or_nogo).all()
+            for result in results:
+                if (result[1] == "go") & (result[0]=="hit"):
+                    go_hit += 1
+                elif (result[1] == "go") & (result[0]=="wrong_port"):
+                    go_miss += 1
+                elif (result[1] == "go") & (result[0]=="error"):
+                    go_error += 1
+                elif (result[1] == "nogo") & (result[0]=="hit"):
+                    no_go_hit += 1
+                elif (result[1] == "nogo") & (result[0]=="wrong_port"):
+                    no_go_miss += 1
+                elif (result[1] == "nogo") &(result[0]=="error"):
+                    no_go_error += 1
+
         elif rat=='Josh':
-                    for stim in stims:
-                        hits = session.query(josh.outcome,josh.stim_name).filter(josh.stim_name == stim, josh.outcome=='hit').all()
-                        errors = session.query(josh.outcome,josh.stim_name).filter(josh.stim_name == stim, josh.outcome=='error').all()
-                        wrongs = session.query(josh.outcome,josh.stim_name).filter(josh.stim_name == stim, josh.outcome=='wrong_port').all()
-                        hits_outcomes.append(len(hits)+len(errors))
-                        wrongs_outcomes.append(len(wrongs))
+            for stim in stims:
+                hits = session.query(josh.outcome,josh.stim_name).filter(josh.stim_name == stim, josh.outcome=='hit').all()
+                errors = session.query(josh.outcome,josh.stim_name).filter(josh.stim_name == stim, josh.outcome=='error').all()
+                wrongs = session.query(josh.outcome,josh.stim_name).filter(josh.stim_name == stim, josh.outcome=='wrong_port').all()
+                hits_outcomes.append(len(hits))
+                wrongs_outcomes.append(len(wrongs))
+                error_outcomes.append(len(errors))
+                count.append(len(hits)+len(errors)+len(wrongs))
 
-                    results = session.query(josh.trial_number,josh.correct_side).all()
-                    for result in results:
-                        trial.append(result[0])
-                        side.append(result[1])
+            results = session.query(josh.outcome,josh.go_or_nogo).all()
+            for result in results:
+                if (result[1] == "go") & (result[0]=="hit"):
+                    go_hit += 1
+                elif (result[1] == "go") & (result[0]=="wrong_port"):
+                    go_miss += 1
+                elif (result[1] == "go") & (result[0]=="error"):
+                    go_error += 1
+                elif (result[1] == "nogo") & (result[0]=="hit"):
+                    no_go_hit += 1
+                elif (result[1] == "nogo") & (result[0]=="wrong_port"):
+                    no_go_miss += 1
+                elif (result[1] == "nogo") &(result[0]=="error"):
+                    no_go_error += 1
+
         elif rat=='Marco':
-                    for stim in stims:
-                        hits = session.query(marco.outcome,marco.stim_name).filter(marco.stim_name == stim, marco.outcome=='hit').all()
-                        errors = session.query(marco.outcome,marco.stim_name).filter(marco.stim_name == stim, marco.outcome=='error').all()
-                        wrongs = session.query(marco.outcome,marco.stim_name).filter(marco.stim_name == stim, marco.outcome=='wrong_port').all()
-                        hits_outcomes.append(len(hits)+len(errors))
-                        wrongs_outcomes.append(len(wrongs))
+            for stim in stims:
+                hits = session.query(marco.outcome,marco.stim_name).filter(marco.stim_name == stim, marco.outcome=='hit').all()
+                errors = session.query(marco.outcome,marco.stim_name).filter(marco.stim_name == stim, marco.outcome=='error').all()
+                wrongs = session.query(marco.outcome,marco.stim_name).filter(marco.stim_name == stim, marco.outcome=='wrong_port').all()
+                hits_outcomes.append(len(hits))
+                wrongs_outcomes.append(len(wrongs))
+                error_outcomes.append(len(errors))
+                count.append(len(hits)+len(errors)+len(wrongs))
 
-                    results = session.query(marco.trial_number,marco.correct_side).all()
-                    for result in results:
-                        trial.append(result[0])
-                        side.append(result[1])
+            results = session.query(marco.outcome,marco.go_or_nogo).all()
+            for result in results:
+                if (result[1] == "go") & (result[0]=="hit"):
+                    go_hit += 1
+                elif (result[1] == "go") & (result[0]=="wrong_port"):
+                    go_miss += 1
+                elif (result[1] == "go") & (result[0]=="error"):
+                    go_error += 1
+                elif (result[1] == "nogo") & (result[0]=="hit"):
+                    no_go_hit += 1
+                elif (result[1] == "nogo") & (result[0]=="wrong_port"):
+                    no_go_miss += 1
+                elif (result[1] == "nogo") &(result[0]=="error"):
+                    no_go_error += 1
+     
 
                 
 
-        
+        go_nogo = [go_hit,go_miss,go_error,no_go_hit,no_go_miss,no_go_error]  
         rat_dict[rat.lower()]= {
-            "trial":trial,
-            "side":side,
             "hits":hits_outcomes,
-            "wrong":wrongs_outcomes
+            "wrong":wrongs_outcomes,
+            "errors": error_outcomes,
+            "stim_count": count,
+            "go_nogo":go_nogo
         }
                  
 
