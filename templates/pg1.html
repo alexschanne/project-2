@@ -4,67 +4,69 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>You Chose A Rat</title>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <link rel="stylesheet" href="static/css/style.css">
-  
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>You Chose A Rat</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../static/css/style.css">
+
 </head>
 
 <body>
 
-  <div class="container">
-    <div class="row">
-      <!-- https://media.giphy.com/media/MIbfwYuaiXKIo/giphy.gif / https://media.giphy.com/media/3o6MbhDT8mNUv50FPi/giphy.gif  / style="background-image: url(https://media.giphy.com/media/26tk0pgnBm620hIeQ/giphy.gif); background-size: cover; background-position: center; height: 400px; width: 900px;" -->
-      <div class="col-md-12 jumbotron text-center" style="background-image: url(http://neurotechdavis.com/images/brain.png); background-size: cover; background-position: center; height: 400px;">
-        <h1><font color="white"><b>Rat Race Dashboard</font></b></h1><br><br>
-        <p><font color="white"><b>Use the Interactive Charts Below to Explore the Dataset</font></b></p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-2">
-        <h1 id ="rat" >You Selected {{r_name}}</h1>
-        <div class="well">
-          <h5>Select a Rat</h5>
-          <select id="selDataset"></select>
-        </div>
-        <input type="submit" value="Submit" class="btn btn-default">
+    <div class="container">
         <div class="row">
-          <div class="col-md-12">
-              <h2><a href="/">Home</a></h2>
-          </div>
+            <!-- https://media.giphy.com/media/MIbfwYuaiXKIo/giphy.gif / https://media.giphy.com/media/3o6MbhDT8mNUv50FPi/giphy.gif  / style="background-image: url(https://media.giphy.com/media/26tk0pgnBm620hIeQ/giphy.gif); background-size: cover; background-position: center; height: 400px; width: 900px;" -->
+            <div class="col-md-12 jumbotron text-center" style="background-image: url(http://neurotechdavis.com/images/brain.png); background-size: cover; background-position: center; height: 400px;">
+                <h1>
+                    <font color="white"><b>Rat Race Dashboard</font></b></h1><br><br>
+                <p>
+                    <font color="white"><b>Use the Interactive Charts Below to Explore the Dataset</font></b></p>
+            </div>
         </div>
-      </div>
-      <div>
-        <div class="col-md-5">
-          <div id="pie"></div>
+        <div class="row">
+            <div class="col-md-2">
+                <h1 id="rat">You Selected {{r_name}}</h1>
+                <div class="well">
+                    <h5>Select a Rat</h5>
+                    <select id="selDataset"></select>
+                </div>
+                <input type="submit" value="Submit" class="btn btn-default">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2><a href="/">Home</a></h2>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="col-md-5">
+                    <div id="pie"></div>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <div id="go_nogo"></div>
+            </div>
         </div>
     </div>
-      <div class="col-md-5">
-        <div id="go_nogo"></div>
-      </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div id="bar"></div>
+        </div>
     </div>
-  </div>
-  <div class="row">
-    <div class="col-md-12">
-      <div id="bar"></div>
-    </div>
-  </div>
 
 
 
 
-  <!-- Don't delete this text -->
-  <text id="hide">{{r_name}}</text>
+    <!-- Don't delete this text -->
+    <text id="hide">{{r_name}}</text>
 
-  <!-- <script src="https://cdn.plot.ly/plotly-1.31.2.min.js"></script> -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
-  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="{{ url_for('static', filename='js/app.js') }}"></script>
-  <!-- <script src="{{ url_for('static', filename='js/app.js') }}"></script> -->
-  
+    <!-- <script src="https://cdn.plot.ly/plotly-1.31.2.min.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+    <!-- <script src="{{ url_for('static', filename='js/app.js') }}"></script> -->
+
 
 
 </body>
