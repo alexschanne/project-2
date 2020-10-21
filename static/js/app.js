@@ -25,8 +25,8 @@ function runEnter(){
 
 };
 
-var rat =d3.select("text").text();
 
+var chosen_rat =d3.select("text").text();
 // Working with the data
 const url = "/data"
 d3.json(url).then((data) =>{
@@ -34,15 +34,15 @@ d3.json(url).then((data) =>{
     
   
   
-  var hits = data[0][rat]['hits'];
-  var wrongs = data[0][rat]['wrong'];
-  var errors = data[0][rat]['errors']
-  var stim_count = data[0][rat]['stim_count'];
-  var go_nogo = data[0][rat]['go_nogo'];
+  var hits = data[0][chosen_rat]['hits'];
+  var wrongs = data[0][chosen_rat]['wrong'];
+  var errors = data[0][chosen_rat]['errors']
+  var stim_count = data[0][chosen_rat]['stim_count'];
+  var go_nogo = data[0][chosen_rat]['go_nogo'];
     
-
+  var x = ['Left Side Localization Go Trial', 'Right Side Localization No Go Trial', 'Low Pitch Pitch Go Trial', 'High Pitch Pitch No Go Trial', 'Left Side/High Pitch Localization Normal Trial', 'Right Side/High Pitch Localization Normal Trial', 'Left Side/Low Pitch Localization Normal Trial', 'Right Side/Low Pitch Localization Normal Trial', 'Left Side/High Pitch Pitch Normal Trial', 'Right Side/High Pitch Pitch Normal Trial', 'Left Side/Low Pitch Pitch Normal Trial', 'Left Side/Low Pitch Pitch Normal Trial'];
   var trace1 = {
-    labels: ['le_lc_go', 'ri_lc_no', 'lo_pc_go', 'hi_pc_no', 'le_hi_lc', 'ri_hi_lc', 'le_lo_lc', 'ri_lo_lc', 'le_hi_pc', 'ri_hi_pc', 'le_lo_pc', 'ri_lo_pc'],
+    labels: x,
     values: stim_count,
     type: 'pie'
   };
@@ -51,13 +51,23 @@ d3.json(url).then((data) =>{
   
   var layout = {
     title: "Stimuli Tested",
+    // width: 800,
+    
+    x:0,
+    height: 700,
+    showlegend:true,
+    margin: {
+      l: 100,
+      r: 100,
+      t: 100,
+      b: 0
+    },
+    legend:{x:1,y:0,xanchor: 'right',yanchor: 'top'}
   };
   
   Plotly.newPlot("pie", d, layout);
 
   
-
-  var x = ['le_lc_go', 'ri_lc_no', 'lo_pc_go', 'hi_pc_no', 'le_hi_lc', 'ri_hi_lc', 'le_lo_lc', 'ri_lo_lc', 'le_hi_pc', 'ri_hi_pc', 'le_lo_pc', 'ri_lo_pc'];
   var trace2 = {
     x: x,
     y: hits,
@@ -88,7 +98,7 @@ d3.json(url).then((data) =>{
       l: 100,
       r: 100,
       t: 100,
-      b: 100
+      b: 200
     },
     xaxis: {
       title: {
